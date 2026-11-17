@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+.venv/
+venv/
+*.exe
+*.log
+.DS_Store
+Thumbs.db
+.env
